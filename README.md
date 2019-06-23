@@ -19,3 +19,7 @@ Le lâché: c'est l'épaule arrière qui fait l'action, les doigts se déroulent
 Le bras qui tient l'arc ne bouge pas, restant en poussée jusqu'à ce que la flèche arrive en cible. Eventuellement l'arc tombe vers l'avant (retenu par la dragone.)
 
 Déroulement du tir. On aligne l'arc vers la cible en vérifiant sa verticalité, on prend la visée, on bande l'arc progressivement jusqu'à obtenir ses contacts et on lâche dans un mouvement continu et doux, avec le moins de pause possible.
+
+Pour éviter les mauvais lâchers, on travaille sur ses contacts: en arc classique, les trois doigts doivent être calés entre le cou et la mâchoire et c'est le mouvement du coude / épaule qui les fait s'ouvrir en même temps. On veille à ce qu'ils s'ouvrent en même temps, donc que le poignet soit aligné verticalement. Attention donc à ce que le coude arrière soit horizontal et non en diagonale vers le haut, car celà contribue à faire tourner le poignet en diagonale et donc à un mauvais lâcher ou les doigts s'ouvrent l'un après l'autre.
+
+
