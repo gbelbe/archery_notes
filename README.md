@@ -30,6 +30,16 @@ Pour éviter que le bras ne tire on plie le poignet vers l'exterieur, et on doig
 
 Le bras qui tient l'arc ne bouge pas, restant en poussée jusqu'à ce que la flèche arrive en cible. Eventuellement l'arc tombe vers l'avant (retenu par la dragone.)
 
+
+
+#Position
+le corps doit être bien droit et perpendiculaire à la cible, on veille à ce que la tête soit bien stable sur les épaules, basses, bien alignées.
+Ensuite on lève le bras d'arc en engageant un peu pour que le bras de corde ne déforme pas la structure du corps qui doit rester stable à toute épreuve.
+Les épaules restent toujours basses et la tête ne bouge pas, ni d'avant en arrière ni vers la corde d'arc.
+Une fois la corde tirée et la position trouvée, on vient approcher sa main d'arc de sa joue pour trouver ses contacts, on ne fait surtout pas l'inverse, pour ne pas faire bouger la tête, ce qui déformerait la stabilité du tout.
+Travailler le mouvement bras tendu en portant une bouteille d'eau
+
+
 Déroulement du tir. On aligne l'arc vers la cible en vérifiant sa verticalité, on prend la visée, on bande l'arc progressivement jusqu'à obtenir ses contacts et on lâche dans un mouvement continu et doux, avec le moins de pause possible.
 
 
@@ -39,16 +49,23 @@ Pour éviter les mauvais lâchers, on travaille sur ses contacts: en arc classiq
 
 #visée
 On tend l'arc en montant un peu le bras, jusqu'à ce que l'on sente que l'on a un alignement des os. Quand celà arrive on rapproche son doigt pour avoir ses contacts.
-1) alignement osseux 2) contacts 3) on ne lève pas trop le coude pour assurer un bon aligement et permettre à l'épaule de redescendre lors du laché.
+1) alignement osseux 2) contacts 3) on ne lève pas trop le coude - on descend le coude, car lorsqu'il est vertical la main suit et les doigts s'orientent horizontalement au lieu de verticalement. Ils vont tirer la corde en diagonale plutot que dans l'axe de l'arc, celà peut provoquer des mauvais lâchers.
 
+=> c'est la main qui vient aux contacts et non la tête qui va rejoindre la main.
 
 Lorsqu'on arrive à ses contacts, on doit voir la corde floue, pour être certain qu'elle est dans l'alignement.
+
+Attention à prendre le temps de bien viser et de placer la pointe de la flêche au centre de la cible.
+Autre aide sur le 18m, pour garantir la hauteur. Viser avec la flèche entière, l'aligner vers la cible (ou jetter un coup d'oeuil sur son alignement horizontal).
 
 
 #tenue de l'arc
 Les doigts n'enserrent pas l'arc mais doivent être relachés. On pose l'arc sur le gras du pouce sur la plus grande surface possible.
 Problème si l'arc rue: le haut de l'arc revient vers soi au lieu de tomber vers l'avant après que la flèche soit partie:
-veiller à laisser la main avant relâchée: vérifier que la pulpe du pouce soit bien détendue : ni contractée (plate) ni complètement recroquevillée (muscle tendu pour tenir la poignée.)
+veiller à laisser la main avant relâchée: vérifier que la pulpe du pouce soit bien détendue : ni contractée (plate) ni complètement recroquevillée (muscle tendu pour tenir la poignée.).
+Attention a laisser la main épouser la poignée d'arc, le poignet pas forcément trop cassé car celà aura tendance a faire monter l'arc (et donc la flèche)
+
+
 
 
 
