@@ -1,4 +1,4 @@
-Points importants du tir a l'arc:
+=> Points importants du tir a l'arc:
 
 Position en T: bras qui tient l'arc, épaule basse, coude tourné vers l'extérieur, poignet cassé.
 
