@@ -63,7 +63,13 @@ Problème si l'arc rue: le haut de l'arc revient vers soi au lieu de tomber vers
 veiller à laisser la main avant relâchée: vérifier que la pulpe du pouce soit bien détendue : ni contractée (plate) ni complètement recroquevillée (muscle tendu pour tenir la poignée.).
 Attention a laisser la main épouser la poignée d'arc, le poignet pas forcément trop cassé car celà aura tendance a faire monter l'arc (et donc la flèche)
 
+Attention à ne pas baisser a main de l'arc avant que la flèche soit en cible. Sinon la flèch peut partir plus bas. On garde bien le bras tendu jusqu'à la fin.
 
+#cibles
+trispot: on commence par la cible du milieu pour réduire le risque de paille. (au pire elle tombe dans la mauvaise cible et on visera l'autre cible après)
+string walking: pour gagner du temps on peut prendre sa référence à partir du bas du coupe fil.
+plus on monte la main sur la corde, plus la flèche va vers le haut
+plus on descend la main, plus la flèche va vers le bas
 
 
 
